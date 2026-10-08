@@ -27,7 +27,7 @@ The release contains only this tool's scripts and documentation. It does not inc
 4. Check **Configured voice language**, choose **Subtitles / menus**, and click **Apply text language**.
 5. Launch the game normally. You only need to apply again when changing the text language or if the settings have been changed.
 
-The tool starts in English. Use **Interface language** to switch between English and 한국어. Voice-pack downloads are managed by you in the game. The voice field displays saved settings, not live audio detection.
+The tool starts in English. Use **Interface language** to switch between English and Korean. Voice-pack downloads are managed by you in the game. The voice field displays saved settings, not live audio detection.
 
 **Example:** Select English in the game and install its voice pack. Close the game, choose Korean in the selector, and apply. Korean subtitles with English voices have been confirmed after restarting on Xbox PC Game Pass.
 
